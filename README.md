@@ -1,0 +1,1 @@
+This repository demonstrates an example of unexpected behavior caused by integer division truncation in C. The file 'bug.c' contains the erroneous code, while 'bugSolution.c' provides a corrected version that addresses the truncation issue and handles the result appropriately.
